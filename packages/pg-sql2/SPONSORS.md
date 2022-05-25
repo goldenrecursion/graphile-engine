@@ -12,6 +12,7 @@ sponsor](https://graphile.org/sponsor/).
 - The Guild
 - Qwick
 - Fanatics
+- GraphCDN
 - Dovetail
 - Enzuzo
 
@@ -48,7 +49,6 @@ sponsor](https://graphile.org/sponsor/).
 - Matt Bretl
 - svarmony
 - James Rascoe
-- Mark
 - Simon Elliott
 - CJ Lazell
 - Mansoor Razzaq
